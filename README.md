@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**facurabinovich/facurabinovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer building my path into Data Science. Curious learner, determined builder, and always objective-oriented.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building a **Spotify Analytics Dashboard** — a full end-to-end project that:
+- Pulls data via Spotify API
+- Stores it in a star schema MySQL database
+- Visualizes insights through Power BI
+
+Next up: diving into ML, deep learning, and computer vision projects (specifics TBD, but the pipeline is loading).
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+- Python (pandas, scikit-learn, TensorFlow, PyTorch)
+- SQL
+- Power BI
+
+## 📫 Let's Connect
+
+- LinkedIn: [https://www.linkedin.com/in/facundo-rabinovich]
+
+## ⚡ Fun Facts
+
+- ⚽ Football fan
+- 🎾 Amateur Tennis Player
+- 📚 Read ~8 books a year
+- 🎸 Love rock and music from the 60s/70s/80s/90s
+
+---
+
+💼 Check out my projects at [your-github.io-url]
