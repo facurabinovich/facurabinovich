@@ -10,10 +10,11 @@ Explore my projects, dashboards, and deployed applications:
 
 ---
 
-## 🚀 What I'm Working On
+## ✅ Featured Projects
 
 ### 🏦 CRM AI — Banking Assistant (AI Engineering)
 A conversational banking assistant combining **Tool Calling** and **RAG** built on the Anthropic Claude API. Agentic system where Claude autonomously decides which tools to use based on user intent.
+🔗 https://github.com/facurabinovich/crm-ai
 
 #### Features
 * 6 custom tools (account balance, payments, limit requests, semantic search)
@@ -21,13 +22,12 @@ A conversational banking assistant combining **Tool Calling** and **RAG** built 
 * ChromaDB + VoyageAI embeddings (`voyage-3-large`)
 * SQLite backend with normalized schema (clients, cards, payments, limit requests)
 * Flask frontend with real-time SSE streaming
+* Dockerized with automatic DB setup and RAG indexing on first run
 
 #### Tech Stack
-Python · Anthropic Claude API · ChromaDB · VoyageAI · Flask · SQLite · SSE
+Python · Anthropic Claude API · ChromaDB · VoyageAI · Flask · SQLite · SSE · Docker
 
 ---
-
-## ✅ Featured Projects
 
 ### 🎵 TailorList — Spotify Analytics
 A personal Spotify analytics app to explore playlists, audio features, and music patterns with ML clustering.
@@ -76,7 +76,7 @@ Python · LightGBM · pandas · scikit-learn · MySQL · Streamlit
 * Streamlit · Plotly · Power BI · Knowage
 
 ### Cloud & Deployment
-* AWS · Railway · Render · Neon · Streamlit Cloud
+* AWS · Railway · Render · Neon · Streamlit Cloud · Docker
 
 ---
 
@@ -95,6 +95,7 @@ Python · LightGBM · pandas · scikit-learn · MySQL · Streamlit
 * Systems Engineering — UTN FRC
 * Diploma in Data Science — UTN FRBA
 * Statistical Learning with Python — Stanford Online
+* Building with the Claude API — Anthropic
 * AWS Solutions Architect Associate (SAA-C03)
 
 ---
