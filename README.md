@@ -81,14 +81,19 @@ Python · LightGBM · pandas · scikit-learn · MySQL · Streamlit
 ---
 
 ## 💼 Experience
+### AI Engineer — Pi Data Strategy & Consulting
+📍 Córdoba, Argentina
+📅 Jul 2026 – Present
+* Developing AI solutions applied to a CRM project, focused on optimizing customer management processes through intelligent automation and AI models
+* Designing and implementing AI features integrated into the client's CRM
+* Collaborating with cross-functional data and consulting teams
 
 ### Data Analyst — Geminus (SIRTA Project - BID)
 📍 Córdoba, Argentina
-📅 Aug 2024 – Present
+📅 Aug 2024 – Jul 2026
 * Built ETL pipelines integrating South American government data sources
 * Developed interactive analytics dashboards
 * Presented technical insights to BID and Fonplata stakeholders
-
 ---
 
 ## 🎓 Education & Certifications
